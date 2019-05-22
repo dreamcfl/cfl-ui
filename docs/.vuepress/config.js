@@ -1,15 +1,15 @@
 const path = require('path')
 module.exports = {
-    base:'/sakura-ui/',
-    title: 'Sakura UI',
-    description: 'Inspiration from heian sakura',
+    base:'/cfl-ui/',
+    title: 'cfl UI',
+    description: 'Inspiration from heian cfl',
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Github', link: 'https://github.com/Firenzia/sakura-ui/' },
+        { text: 'Github', link: 'https://dreamcfl.github.io/cfl-ui/' },
       ],
       sidebar: [
           {
